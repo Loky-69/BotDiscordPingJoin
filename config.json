@@ -1,0 +1,9 @@
+{
+  "token": "TON_TOKEN_DISCORD",
+  "welcomeChannels": [
+    "123456789012345678",
+    "987654321098765432"
+  ],
+  "deleteAfter": 10000,
+  "message": "Bienvenue {user} sur le serveur !"
+}
